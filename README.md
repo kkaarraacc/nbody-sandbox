@@ -7,7 +7,7 @@ Made this for a differential equations project(3-body problem)to demonstrate how
 
 To do:
 - option to manipulate particle masses
-- improve the algorithm(need to implement a solid matrix solution, right now it starts to chug around 50 particles)
+- improve the algorithm(need to implement a solid matrix solution, right now it starts to chug around 200 particles)
 - improve collision detection
 - options to manipulate gravity, time, and scale
 
