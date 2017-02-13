@@ -10,3 +10,6 @@ To do:
 - improve the algorithm(need to implement a solid matrix solution, right now it starts to chug around 50 particles)
 - improve collision detection
 - options to manipulate gravity, time, and scale
+
+![alt text][logo]
+[logo]: https://github.com/kkaarraacc/nbody-sandbox/blob/master/preview.PNG
