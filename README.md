@@ -11,5 +11,5 @@ To do:
 - improve collision detection
 - options to manipulate gravity, time, and scale
 
-![alt text][logo]
-[logo]: https://github.com/kkaarraacc/nbody-sandbox/blob/master/preview.PNG
+
+<image src="https://github.com/kkaarraacc/nbody-sandbox/blob/master/preview.PNG>
